@@ -1,0 +1,1228 @@
+Uri: https://lebronbrownie.com.br/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\index.htm
+Content Type: text/html
+
+Uri: https://lebronbrownie.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lebronbrownie.com.br/feed/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lebronbrownie.com.br/politica-de-cookies/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\politica-de-cookies\index.htm
+Content Type: text/html
+
+Uri: https://lebronbrownie.com.br/politica-de-privacidade/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\politica-de-privacidade\index.htm
+Content Type: text/html
+
+Uri: https://lebronbrownie.com.br/termos-de-uso/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\termos-de-uso\index.htm
+Content Type: text/html
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-counter.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-image-gallery.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-menu-anchor.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-toggle.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.41.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.41.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.41.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.41.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.41.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.29.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: font/woff
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.18.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?ver=3.18.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\js\extension-reading-progress-bar.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.18.0
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/official-facebook-pixel/js/facebook_signal.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\official-facebook-pixel\js\facebook_signal.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/pro-elements/assets/css/frontend.min.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\pro-elements\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\pro-elements\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/pro-elements/assets/js/preloaded-elements-handlers.min.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\pro-elements\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\plugins\pro-elements\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/17-259x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\17-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/17-768x890.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\17-768x890.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/17-884x1024.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\17-884x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/17.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\17.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/conteudo-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\conteudo-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/conteudo-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\conteudo-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/conteudo-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\conteudo-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/ESCALA-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\ESCALA-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/ESCALA-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\ESCALA-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/ESCALA-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\ESCALA-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/FAVICON-LE-BRON-BROWNIE-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\FAVICON-LE-BRON-BROWNIE-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/FAVICON-LE-BRON-BROWNIE-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\FAVICON-LE-BRON-BROWNIE-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/garantia-5-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\garantia-5-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/garantia-5-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\garantia-5-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/garantia-5.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\garantia-5.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/QUANTIDADE-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\QUANTIDADE-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/QUANTIDADE-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\QUANTIDADE-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/QUANTIDADE-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\QUANTIDADE-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/UTENSILIOS-2-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\UTENSILIOS-2-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/UTENSILIOS-2-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\UTENSILIOS-2-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/UTENSILIOS-2.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\UTENSILIOS-2.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/whatsapp-ii-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\whatsapp-ii-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/whatsapp-ii-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\whatsapp-ii-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/01/whatsapp-ii-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\01\whatsapp-ii-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/21-226x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\21-226x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/21.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\21.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/48-300x247.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\48-300x247.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/48.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\48.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/49-300x241.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\49-300x241.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/49-768x618.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\49-768x618.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/49.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\49.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/BIO-JESSICA-LB-WHUTE-1-292x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\BIO-JESSICA-LB-WHUTE-1-292x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/BIO-JESSICA-LB-WHUTE-1-768x788.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\BIO-JESSICA-LB-WHUTE-1-768x788.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/BIO-JESSICA-LB-WHUTE-1.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\BIO-JESSICA-LB-WHUTE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/Captura-de-Tela-2023-02-01-as-11.25.40-176x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\Captura-de-Tela-2023-02-01-as-11.25.40-176x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/Captura-de-Tela-2023-02-01-as-11.25.40.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\Captura-de-Tela-2023-02-01-as-11.25.40.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/colher-de-madeira-otm.png-265x300.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\colher-de-madeira-otm.png-265x300.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/colher-de-madeira-otm.png.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\colher-de-madeira-otm.png.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/controle-de-qualidade-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\controle-de-qualidade-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/controle-de-qualidade-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\controle-de-qualidade-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/controle-de-qualidade.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\controle-de-qualidade.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/cross-mark-button_274e-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\cross-mark-button_274e-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/cross-mark-button_274e-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\cross-mark-button_274e-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EBBOK-PLANEJAMENTO-ESTRATEGICO-1-1456x1536.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EBBOK-PLANEJAMENTO-ESTRATEGICO-1-1456x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EBBOK-PLANEJAMENTO-ESTRATEGICO-1-284x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EBBOK-PLANEJAMENTO-ESTRATEGICO-1-284x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EBBOK-PLANEJAMENTO-ESTRATEGICO-1-768x810.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EBBOK-PLANEJAMENTO-ESTRATEGICO-1-768x810.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EBBOK-PLANEJAMENTO-ESTRATEGICO-1-971x1024.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EBBOK-PLANEJAMENTO-ESTRATEGICO-1-971x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EBBOK-PLANEJAMENTO-ESTRATEGICO-1.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EBBOK-PLANEJAMENTO-ESTRATEGICO-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/efficiency-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\efficiency-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/efficiency-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\efficiency-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/efficiency.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\efficiency.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EMPILHAMENTO-MOCKUPS-LB-1-1024x711.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EMPILHAMENTO-MOCKUPS-LB-1-1024x711.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EMPILHAMENTO-MOCKUPS-LB-1-300x208.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EMPILHAMENTO-MOCKUPS-LB-1-300x208.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EMPILHAMENTO-MOCKUPS-LB-1-768x533.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EMPILHAMENTO-MOCKUPS-LB-1-768x533.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/EMPILHAMENTO-MOCKUPS-LB-1.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\EMPILHAMENTO-MOCKUPS-LB-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/ESTRATEGIA-DE-VENDAS-1-300x248.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\ESTRATEGIA-DE-VENDAS-1-300x248.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/ESTRATEGIA-DE-VENDAS-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\ESTRATEGIA-DE-VENDAS-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/fue-img-otm.png-300x234.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\fue-img-otm.png-300x234.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/fue-img-otm.png.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\fue-img-otm.png.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-1024x576.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-1024x576.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-1536x864.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-1536x864.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-300x169.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-300x169.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-768x432.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1-768x432.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-COMBO-DE-RECEITAS-PREMIUM-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-1024x579.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-1024x579.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-1536x868.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-1536x868.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-300x170.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-300x170.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-768x434.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1-768x434.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\MOCKUP-KIT-GESTAO-FINANCEIRA-LB-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/PACK-DE-EMBALAGENS-1-300x191.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\PACK-DE-EMBALAGENS-1-300x191.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/PACK-DE-EMBALAGENS-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\PACK-DE-EMBALAGENS-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/pagamento-seguro-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\pagamento-seguro-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/pagamento-seguro-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\pagamento-seguro-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/pagamento-seguro.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\pagamento-seguro.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/PLANILHA-DE-PROGRAMACAO-DE-COMPRAS-LB-1-300x185.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\PLANILHA-DE-PROGRAMACAO-DE-COMPRAS-LB-1-300x185.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/PLANILHA-DE-PROGRAMACAO-DE-COMPRAS-LB-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\PLANILHA-DE-PROGRAMACAO-DE-COMPRAS-LB-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/pngwing.com-11-300x225.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\pngwing.com-11-300x225.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/pngwing.com-11.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\pngwing.com-11.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/REVENDO-LB-1-300x184.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\REVENDO-LB-1-300x184.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/REVENDO-LB-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\REVENDO-LB-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/rolo-img-otm.png-300x68.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\rolo-img-otm.png-300x68.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/rolo-img-otm.png.webp
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\rolo-img-otm.png.webp
+Content Type: image/webp
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/SELO-7-DIAS-BRANCO-NOVO-1-1024x1024.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\SELO-7-DIAS-BRANCO-NOVO-1-1024x1024.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/SELO-7-DIAS-BRANCO-NOVO-1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\SELO-7-DIAS-BRANCO-NOVO-1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/SELO-7-DIAS-BRANCO-NOVO-1-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\SELO-7-DIAS-BRANCO-NOVO-1-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/SELO-7-DIAS-BRANCO-NOVO-1-768x768.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\SELO-7-DIAS-BRANCO-NOVO-1-768x768.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/SELO-7-DIAS-BRANCO-NOVO-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\SELO-7-DIAS-BRANCO-NOVO-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/TABELA-NUTRICIONAL-LB-1-300x240.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\TABELA-NUTRICIONAL-LB-1-300x240.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/02/TABELA-NUTRICIONAL-LB-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\02\TABELA-NUTRICIONAL-LB-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/03/MOCKUP-BROWNIE-BONUS-300x200.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\03\MOCKUP-BROWNIE-BONUS-300x200.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/03/MOCKUP-BROWNIE-BONUS.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\03\MOCKUP-BROWNIE-BONUS.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/Design-sem-nome-14-copia-3-1-300x185.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\Design-sem-nome-14-copia-3-1-300x185.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/Design-sem-nome-14-copia-3-1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\Design-sem-nome-14-copia-3-1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_0406-300x269.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_0406-300x269.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_0406-768x688.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_0406-768x688.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_0406.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_0406.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5228-289x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5228-289x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5228-768x798.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5228-768x798.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5228.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5228.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5435-300x284.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5435-300x284.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5435-768x728.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5435-768x728.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/06/IMG_5435.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\06\IMG_5435.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/07/1-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\07\1-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/07/1.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\07\1.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/Captura-de-Tela-2023-09-07-as-22.20.01-1024x462.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\Captura-de-Tela-2023-09-07-as-22.20.01-1024x462.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/Captura-de-Tela-2023-09-07-as-22.20.01-300x135.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\Captura-de-Tela-2023-09-07-as-22.20.01-300x135.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/Captura-de-Tela-2023-09-07-as-22.20.01-768x347.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\Captura-de-Tela-2023-09-07-as-22.20.01-768x347.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/Captura-de-Tela-2023-09-07-as-22.20.01.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\Captura-de-Tela-2023-09-07-as-22.20.01.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8120-1024x797.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8120-1024x797.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8120-300x233.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8120-300x233.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8120-768x598.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8120-768x598.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8120.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8120.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8217-300x152.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8217-300x152.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8217-768x388.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8217-768x388.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8217.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8217.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8337-300x112.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8337-300x112.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8337-768x287.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8337-768x287.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/IMG_8337.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\IMG_8337.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/mockups-site-600-×-400-px-300x250.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\mockups-site-600-×-400-px-300x250.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2023/09/mockups-site-600-×-400-px.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2023\09\mockups-site-600-×-400-px.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_0051-300x171.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_0051-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_0051-768x437.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_0051-768x437.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_0051.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_0051.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_9981-150x150.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_9981-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_9981-298x300.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_9981-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_9981-768x773.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_9981-768x773.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2024/11/IMG_9981.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2024\11\IMG_9981.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2025/04/IMG_6034-1024x699.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2025\04\IMG_6034-1024x699.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2025/04/IMG_6034-300x205.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2025\04\IMG_6034-300x205.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2025/04/IMG_6034-768x524.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2025\04\IMG_6034-768x524.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2025/04/IMG_6034.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2025\04\IMG_6034.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/2-1024x1024.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\2-1024x1024.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/2-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\2-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/2-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\2-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/2-768x768.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\2-768x768.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/2.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\2.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/3-1024x1024.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\3-1024x1024.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/3-150x150.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\3-150x150.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/3-300x300.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\3-300x300.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/3-768x768.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\3-768x768.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/3.png
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\3.png
+Content Type: image/png
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4864-1024x728.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4864-1024x728.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4864-300x213.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4864-300x213.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4864-768x546.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4864-768x546.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4864.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4864.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4878-1024x616.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4878-1024x616.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4878-300x181.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4878-300x181.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4878-768x462.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4878-768x462.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4878.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4878.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4914-1024x511.jpeg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4914-1024x511.jpeg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4914-300x150.jpeg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4914-300x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4914-768x383.jpeg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4914-768x383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/03/IMG_4914.jpeg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\03\IMG_4914.jpeg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/eu-5k-1024x664.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\eu-5k-1024x664.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/eu-5k-300x194.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\eu-5k-300x194.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/eu-5k-768x498.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\eu-5k-768x498.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/eu-5k.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\eu-5k.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/Foto-ju-e-je-natal-1024x664.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\Foto-ju-e-je-natal-1024x664.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/Foto-ju-e-je-natal-300x194.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\Foto-ju-e-je-natal-300x194.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/Foto-ju-e-je-natal-768x498.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\Foto-ju-e-je-natal-768x498.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/10/Foto-ju-e-je-natal.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\10\Foto-ju-e-je-natal.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/1.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\1.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/10.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\10.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/11.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\11.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/12.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\12.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/13.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\13.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/14.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\14.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/15.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\15.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/16.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\16.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/18.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\18.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/19.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\19.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/2.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\2.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/3.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\3.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/4.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\4.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/5.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\5.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/6.jpg
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\6.jpg
+Content Type: image/jpeg
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/7.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\7.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/8.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\8.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/2026/11/9.avif
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\2026\11\9.avif
+Content Type: image/avif
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/css/post-1295.css?ver=1750980078
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\css\post-1295.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/css/post-1320.css?ver=1751064765
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\css\post-1320.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/css/post-1322.css?ver=1750984949
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\css\post-1322.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/css/post-4.css?ver=1750978977
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\css\post-4.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/css/post-8.css?ver=1794784207
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/css/cinzel.css?ver=1748461172
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\css\cinzel.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/css/commissioner.css?ver=1748461103
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\css\commissioner.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1748461087
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/css/sora.css?ver=1748461062
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\css\sora.css
+Content Type: text/css
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/cinzel-8vij7ww63mvu7gt7-gt7lec.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\cinzel-8vij7ww63mvu7gt7-gt7lec.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/cinzel-8vij7ww63mvu7gt79mt7.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\cinzel-8vij7ww63mvu7gt79mt7.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0akxa.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0akxa.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0auxaexs.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0auxaexs.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0bkxaexs.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0bkxaexs.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0z0xaexs.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0z0xaexs.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0zexaexs.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0zexaexs.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0zuxaexs.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\commissioner-tdbw2o2wnlgi0fndgduek4jahwgumbu1svfu5bd8ourl8ostc6kohgvbywsfj-mgdrgiju6ff8m0zuxaexs.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqspdre2.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\sora-xmqbuffyt72xzqspdre2.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqupdg.woff2
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-content\uploads\elementor\google-fonts\fonts\sora-xmqbuffyt72xzqupdg.woff2
+Content Type: font/woff2
+
+Uri: https://lebronbrownie.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://lebronbrownie.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2F
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2F&format=xml
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Fpolitica-de-cookies%2F
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Fpolitica-de-cookies%2F&format=xml
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Fpolitica-de-privacidade%2F
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Fpolitica-de-privacidade%2F&format=xml
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Ftermos-de-uso%2F
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flebronbrownie.com.br%2Ftermos-de-uso%2F&format=xml
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://lebronbrownie.com.br/wp-json/wp/v2/pages/1295
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\wp\v2\pages\1295
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/wp/v2/pages/1320
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\wp\v2\pages\1320
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/wp/v2/pages/1322
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\wp\v2\pages\1322
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://lebronbrownie.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=1442924247499819&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\lebronbrownie.com.br\tr
+Content Type: text/plain
+
